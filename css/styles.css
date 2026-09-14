@@ -417,6 +417,10 @@ h1{
   gap:40px;
 }
 
+#indexEvents {
+  grid-template-rows:auto;
+}
+
 .event{
   display:grid;
   grid-template-columns:48px 1fr;
